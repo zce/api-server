@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "nodemon": "2.0.4",
-    "standard": "14.3.4"
+    "standard": "16.0.3"
   }
 }
